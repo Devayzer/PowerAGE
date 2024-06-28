@@ -3,4 +3,4 @@
 
 #
 
-[![Header](https://github.com/Devayzer/PowerAGE/tree/main/Hardware/MINI/Version R.0.1/Schematic_PowerAGE-Mini_2024-06-28.png)](https://twitch.tv/devayzer)
+[![Header](https://github.com/Devayzer/PowerAGE/blob/main/Hardware/MINI/Version%20R.0.1/Schematic_PowerAGE-Mini_2024-06-28.png)](https://github.com/Devayzer/PowerAGE/blob/main/Hardware/MINI/Version%20R.0.1/Schematic_PowerAGE-Mini_2024-06-28.png)
